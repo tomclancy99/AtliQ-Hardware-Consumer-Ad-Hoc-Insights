@@ -13,12 +13,12 @@ Excel: For data preprocessing and visualization.
 ## 📌 Key Business Insights
 - Generated Croma Sales Report.
 - Generated Croma Yearly Gross Sales Report.
-- Top 5 markets by net sales in fiscal year 2021.
-- Top 5 customers by net sales in fiscal year 2021.
-- Top 5 products by net sales in fiscal year 2021.
+- Top 5 markets by net sales in fiscal year 2021 : Net Slaes are higher in these markets so the company has to increase the supply of product in these markets.
+- Top 5 customers by net sales in fiscal year 2021 : On the basis of this report compnay should give the most priority to these top customers.
+- Top 5 products by net sales in fiscal year 2021 : On the basis of this report company has to increase the manufacturing of these products.
 - Net sales % report.
 - Market share % (Top customers in each region).
-- Forecast accuracy of 2020 vs 2021.
+- Forecast accuracy of 2020 vs 2021 .
 
 ## 📌 Key Project Achievements
 Developed comprehensive reports highlighting top-performing markets, products, and customer segments.
