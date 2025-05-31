@@ -11,14 +11,14 @@ AtliQ Hardware is currently facing performance challenges due to the increasing 
 MySQL: For querying and transforming raw data.
 Excel: For data preprocessing and visualization.
 ## 📌 Key Business Insights
-1 Generated Croma Sales Report.
-2 Generated Croma Yearly Gross Sales Report.
-3 Top 5 markets by net sales in fiscal year 2021.
-4 Top 5 customers by net sales in fiscal year 2021.
-5 Top 5 products by net sales in fiscal year 2021.
-6 Net sales % report.
-7 Market share % (Top customers in each region).
-8 Forecast accuracy of 2020 vs 2021.
+- Generated Croma Sales Report.
+- Generated Croma Yearly Gross Sales Report.
+- Top 5 markets by net sales in fiscal year 2021.
+- Top 5 customers by net sales in fiscal year 2021.
+- Top 5 products by net sales in fiscal year 2021.
+- Net sales % report.
+- Market share % (Top customers in each region).
+- Forecast accuracy of 2020 vs 2021.
 
 ## 📌 Key Project Achievements
 Developed comprehensive reports highlighting top-performing markets, products, and customer segments.
