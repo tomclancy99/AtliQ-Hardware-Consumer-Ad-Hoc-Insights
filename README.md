@@ -4,16 +4,22 @@
 This project focused on leveraging SQL to analyze datasets from AtliQ Hardware, aiming to derive actionable insights into sales trends, market dynamics, customer behaviors, and supply chain forecasting.
 
 ## 📌 Problem Statement
-To address performance bottlenecks caused by large Excel files, we utilized MySQL to transform raw data into valuable business insights.
+AtliQ Hardware is currently facing performance challenges due to the increasing size and complexity of its Excel files. To address this, the company has formed a dedicated team of data analysts to leverage MySQL for extracting valuable insights and enhancing operational efficiency.
+
 
 ## 📌 Tools Used
 MySQL: For querying and transforming raw data.
 Excel: For data preprocessing and visualization.
 ## 📌 Key Business Insights
-Sales Optimization: Identified strategies to enhance sales performance.
-Growth Opportunities: Uncovered new avenues for market expansion.
-Market Trend Analysis: Provided in-depth analysis of prevailing market trends.
-Customer Behavior: Gained insights into customer preferences and behaviors.
+1.Generated Croma Sales Report.
+2.Generated Croma Yearly Gross Sales Report.
+3.Top 5 markets by net sales in fiscal year 2021.
+4.Top 5 customers by net sales in fiscal year 2021.
+5.Top 5 products by net sales in fiscal year 2021.
+6.Net sales % report.
+7.Market share % (Top customers in each region).
+8.Forecast accuracy of 2020 vs 2021.
+
 ## 📌 Key Project Achievements
 Developed comprehensive reports highlighting top-performing markets, products, and customer segments.
 Analyzed net sales percentage share across various regions to guide strategic decisions.
